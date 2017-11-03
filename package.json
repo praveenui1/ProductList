@@ -1,0 +1,19 @@
+{
+  "name": "web-developer-assessment-node",
+  "version": "1.0.0",
+  "description": "Node JS Assessment Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "praveen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
